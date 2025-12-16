@@ -81,3 +81,5 @@ for lokasi in data_panen:
         print(lokasi, "perlu perhatian khusus")
     else:
         print(lokasi, "kondisi baik")
+
+print("ini tugas annisa")
