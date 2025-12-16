@@ -1,4 +1,2 @@
-tugas pemdas annisa
-
-annisa
+bismillah
 
