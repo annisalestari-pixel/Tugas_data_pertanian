@@ -1,2 +1,2 @@
-tugas pemdas annisass
+ini tugas annisa
 
